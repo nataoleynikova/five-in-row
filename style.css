@@ -1,0 +1,21 @@
+table {
+  box-sizing: border-box;
+  height: 100%;
+  table-layout: fixed;
+  width: 100%;
+}
+
+td {
+  border: 1px solid black;
+  height: 20px;
+  padding: 0;
+  width: 20px;
+}
+
+.gamer1 {
+  background: red;
+}
+
+.gamer2 {
+  background: green;
+}
